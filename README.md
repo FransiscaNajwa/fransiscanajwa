@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Fransisca Najwa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer+%F0%9F%94%8C;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96;FPGA+%2F+RISC-V+Builder+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer+%F0%9F%94%8C;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 ```dart
-class AhmadKurniawan {
+class FransiscaNajwa {
   final String name     = "Fransisca Najwa Putri Wibowo";
   final String role     = "Computer Engineering Student";
   final String uni      = "Politeknik Elektronika Negeri Surabaya";
@@ -72,24 +72,7 @@ class AhmadKurniawan {
 
 <div align="center">
 
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=FransiscaNajwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscaNajwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=FransiscaNajwa&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=f72585&currStreakLabel=64ffda)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FransiscaNajwa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
