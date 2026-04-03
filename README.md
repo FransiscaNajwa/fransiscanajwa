@@ -72,8 +72,8 @@ class AhmadKurniawan {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FransiscaNajwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscaNajwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=FransiscaNajwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscaNajwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
 
 </div>
 
@@ -89,7 +89,7 @@ class AhmadKurniawan {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FransiscaNajwa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FransiscaNajwa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -109,10 +109,10 @@ class AhmadKurniawan {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fransiscanajwapw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransisccaa209@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransiscanajwapw)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransisccaa209@gmail.com)
 
 </div>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"
