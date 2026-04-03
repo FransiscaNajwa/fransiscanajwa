@@ -11,8 +11,8 @@
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=64ffda&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=64ffda)](https://github.com/USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=FransiscaNajwa&color=64ffda&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=64ffda)](https://github.com/FransiscaNajwa)
 
 </div>
 
@@ -54,7 +54,6 @@ class AhmadKurniawan {
 **Embedded & Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
@@ -62,14 +61,10 @@ class AhmadKurniawan {
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -78,28 +73,14 @@ class AhmadKurniawan {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FransiscaNajwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscaNajwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=f72585&currStreakLabel=64ffda)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Smart Greenhouse](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=smart-greenhouse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&icon_color=f72585)](https://github.com/USERNAME/smart-greenhouse)
-[![Edge AI Detector](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=edge-ai-detector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&icon_color=f72585)](https://github.com/USERNAME/edge-ai-detector)
-
-[![RISC-V FPGA](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=riscv-fpga&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&icon_color=f72585)](https://github.com/USERNAME/riscv-fpga)
-[![LoRa Mesh](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=lora-mesh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&icon_color=f72585)](https://github.com/USERNAME/lora-mesh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FransiscaNajwa&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=f72585&currStreakLabel=64ffda)](https://git.io/streak-stats)
 
 </div>
 
@@ -109,7 +90,7 @@ class AhmadKurniawan {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FransiscaNajwa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -119,7 +100,7 @@ class AhmadKurniawan {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=64ffda&line=64ffda&point=f72585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FransiscaNajwa&bg_color=0d1117&color=64ffda&line=64ffda&point=f72585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
