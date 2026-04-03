@@ -1,5 +1,3 @@
-<!-- Ganti USERNAME dengan username GitHub kamu -->
-
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -96,6 +94,3 @@ class FransiscaNajwa {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransisccaa209@gmail.com)
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"
