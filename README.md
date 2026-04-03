@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Fransisca Najwa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<div align="center">
+
+# Hi there! I'm Fransisca Najwa 👋
+
+### Computer Engineering Student | Embedded Systems | IoT Developertype=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Fransisca Najwa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer+%F0%9F%94%8C;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
