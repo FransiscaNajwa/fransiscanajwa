@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20FransiscaNajwa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Fransisca Najwa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer+%F0%9F%94%8C;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96;FPGA+%2F+RISC-V+Builder+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
@@ -129,10 +129,8 @@ class AhmadKurniawan {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fransiscanajwapw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fransisccaa209@gmail.com )
-[![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
 
 </div>
 
