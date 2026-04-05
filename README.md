@@ -5,7 +5,7 @@
 
 # Hi there! I'm Fransisca Najwa 👋
 
-### Computer Engineering Student | Embedded Systems | IoT Developer
+### Computer Engineering Student | Embedded Systems | IoT Developer | AI Enthusiast
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer+%F0%9F%94%8C;IoT+%26+Edge+AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
